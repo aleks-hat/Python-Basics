@@ -1,5 +1,6 @@
 # CodeWars Isograms Solution, 7 kyu Difficulty
-# if letter is in alphabaet and is reused return false, else return true
+# if letter is in alphabet and is reused return false, else return true
+#Completion time: ~15 min
 
 def is_isogram(word):
     
