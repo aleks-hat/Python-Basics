@@ -13,3 +13,9 @@ def find_missing_letter(chars):
     
     alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
     index = alpha.find(chars[0])
+    
+    comp = alpha[index:index+len(chars)+1]
+
+    for e, i in enumerate(comp):
+        if chars[e] != comp[e]:
+            return comp[e]
