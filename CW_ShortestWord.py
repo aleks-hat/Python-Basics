@@ -6,3 +6,11 @@
 
 #WORK IN PROGRESS
 
+#for every string in the list, if length of next string is less than the length of initial string, set the intial length eaqul to new one
+
+def find_short(s):
+    length = len(s)
+    short = len(s[0])
+    index = 0
+
+return
