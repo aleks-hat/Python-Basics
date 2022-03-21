@@ -1,5 +1,6 @@
-# CodeWars Isograms Solution, 7 kyu Difficulty
+#Solution to https://www.codewars.com/kata/54ba84be607a92aa900000f1
 
+# CodeWars Isograms, 7 kyu Difficulty
 # Instructions:
 # Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
 
