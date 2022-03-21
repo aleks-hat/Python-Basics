@@ -9,4 +9,7 @@
 
 #WORK IN PROGRESS
 
-
+def find_missing_letter(chars):
+    
+    alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    index = alpha.find(chars[0])
