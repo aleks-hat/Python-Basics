@@ -1,4 +1,5 @@
-#Highest and Lowest Solution, Level 7kyu Difficulty
+#Solution to https://www.codewars.com/kata/554b4ac871d6813a03000035
+#CodeWars Highest and Lowest, Level 7kyu Difficulty
 
 #Instructions:
 #You are given a string of space separated numbers, and have to return the highest and lowest number.
