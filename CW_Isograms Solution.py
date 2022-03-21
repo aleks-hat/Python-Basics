@@ -1,4 +1,8 @@
 # CodeWars Isograms Solution, 7 kyu Difficulty
+
+# Instructions:
+# Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
+
 # if letter is in alphabet and is reused return false, else return true
 #Completion time: ~15 min
 
