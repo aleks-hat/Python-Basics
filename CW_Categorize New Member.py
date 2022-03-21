@@ -1,4 +1,5 @@
-#CodeWars Categorize New Member Solution, Difficulty 7kyu
+#Solution to https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa
+#CodeWars Categorize New Member, Difficulty 7kyu
 
 #Instructions:
 #Input will consist of a list of pairs. Each pair contains information for a single potential member. Information consists of an integer for the person's age and an integer for the person's handicap.
