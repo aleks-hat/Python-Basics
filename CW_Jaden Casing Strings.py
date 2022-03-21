@@ -1,4 +1,5 @@
-#Jaden Casing Strings Solution, Level 7kyu Difficulty
+#Solution to https://www.codewars.com/kata/5390bac347d09b7da40006f6
+#CodeWars Jaden Casing Strings, Level 7kyu Difficulty
 
 #Instructions:
 #Your task is to convert strings to how they would be written by Jaden Smith. 
