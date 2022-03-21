@@ -1,5 +1,6 @@
 # CodeWars Python 7kyu Difficulty
-# Your task is to write a function maskify, which changes all but the last four characters into the pound sign
+# Solution to https://www.codewars.com/kata/5412509bd436bd33920011bc
+#Your task is to write a function maskify, which changes all but the last four characters into '#'.
 #Completion time: ~11 min
 
 # if length of cc number is more than 4, replace all numbers except last 4
