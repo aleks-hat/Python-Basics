@@ -1,4 +1,5 @@
-#Printer Errors Solution, Level 7kyu Difficulty
+#Solution to https://www.codewars.com/kata/56541980fa08ab47a0000040
+#CodeWars Printer Errors, Level 7kyu Difficulty
 
 #Instructions:
 #You have to write a function printer_error which given a string will return the error rate of the printer as a string representing 
