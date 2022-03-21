@@ -12,5 +12,9 @@ def find_short(s):
     length = len(s)
     short = len(s[0])
     index = 0
-
-return
+    for x in range(1, length):
+        if len(s[x]) < short:
+            short = s[x]
+            index = x
+    return index 
+# returns the index of the shortest word in the list
